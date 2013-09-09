@@ -1,0 +1,3 @@
+package elba
+
+modules = Elba.Signal, Elba.Mouse, Elba.Keyboard
